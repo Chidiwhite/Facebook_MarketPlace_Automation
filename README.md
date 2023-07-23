@@ -4,6 +4,9 @@ Facebook Marketplace Automation is a Python script that utilizes Selenium and Py
 # FastX.py
 This Python script utilizes Tkinter, a GUI toolkit, to create an automation tool for posting listings on Facebook Marketplace. The tool allows users to select CSV files containing product information. Upon selection, the script automatically posts the listings, saving time and effort. The application includes a dynamic welcome label with changing text color and displays the FastX logo.
 
+# Fb_Automation.py
+This Python script automates posting ads on Facebook Marketplace, saving time and effort for users. It utilizes Selenium WebDriver to interact with the web browser, allowing it to log in to Facebook, create new listings, and upload product details from CSV files. Users can customize the automation based on the type of listing: Item, Vehicle, or Home. The script reads Chrome profile and login credentials from the config.ini file, ensuring secure access. Users can also specify additional details, such as product images, category, condition, and more. The automation improves the efficiency of managing Facebook Marketplace activities.
+
 # chromedriver.exe
 This is for initializing the driver used in the automation code
 
