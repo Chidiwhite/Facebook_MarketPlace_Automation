@@ -1,2 +1,2 @@
-# Facebook_MarketPlace_Automation
-Python script that uses the Selenium library to automate actions on Facebook Marketplace.
+# Facebook Marketplace Automation with Tkinter UI
+Facebook Marketplace Automation is a Python script that utilizes Selenium and PyAutoGUI to automate the process of creating product listings on Facebook Marketplace. The script reads input data from a CSV file, logs in to Facebook, and creates listings for items, vehicles, or homes based on the data provided. Additionally, the script features a user-friendly Tkinter GUI, allowing users to interactively input data and manage the automation process. It uses custom Chrome options for efficient browsing and handles specific details for different listing categories. The automation streamlines the listing process, saving time and effort for users on Facebook Marketplace.
